@@ -41,20 +41,20 @@ Or install it yourself as:
 - Families:   
    
   
-      SeedPics::Person.family
+      SeedPic::Person.family
 
 - Generic Avatar  
    
 
-      SeedPics::Person.avatar
+      SeedPic::Person.avatar
 
 - Outward appearing male individuals  
   
-      SeedPics::Person.male
+      SeedPic::Person.male
 
 - Outward appearing female individuals       
       
-      SeedPics::Person.female
+      SeedPic::Person.female
 
 - working on adding nonbianary, would love to have input from contributers 
 
